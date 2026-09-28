@@ -38,6 +38,7 @@
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
+| **Mizu** | My interface craft for React — 126 component systems across 14 families (timelines, charts, editors, readers, flows, instruments) with warm ink-and-paper styling, shippable as `mizu-ui` or one-by-one via shadcn CLI | React · TS · Motion · Tailwind · Next.js | [Live](https://mizu.user64bit.world) · [Repo](https://github.com/0xuser64bit/mizu) |
 | **TweetFolio** | This profile's louder sibling — a portfolio styled as an X feed | Next.js · TS · Tailwind | [Live](https://user64bit.vercel.app) · [Repo](https://github.com/0xuser64bit/The-Tweetfolio) |
 | **Get Git** | GitHub profiles worth looking at — contributions, repos, and activity in one interactive page | Next.js · GitHub API · TS | [Live](https://get-git-search.vercel.app/) · [Repo](https://github.com/0xuser64bit/get-git) |
 | **cry-on-crash** | Your terminal failures, dramatized — a sound every time a command or diagnostic blows up. You'll fix things faster just to shut it up | TypeScript · VS Code API | [Repo](https://github.com/0xuser64bit/cry-on-crash) |
